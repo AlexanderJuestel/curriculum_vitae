@@ -10,7 +10,10 @@ Welcome to the Curriculum Vitae of Alexander Jüstel
    :maxdepth: 2
    :caption: Contents:
 
+   research
    academic_career
+   fieldwork
+
 
 
 
