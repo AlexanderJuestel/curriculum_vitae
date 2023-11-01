@@ -1,0 +1,7 @@
+name: pyheatdemand
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - pip:
+    - sphinx_book_theme==0.3.3
