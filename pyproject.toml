@@ -16,7 +16,7 @@ maintainers = [
 description = "Curriculum Vitae of Alexander Jüstel"
 keywords = ["curriculum_vitae", ]
 readme = "README.md"
-%license = {file = "LICENSE"}
+license = {file = "LICENSE"}
 dynamic = ['version']
 requires-python = ">=3.10"
 classifiers = [
