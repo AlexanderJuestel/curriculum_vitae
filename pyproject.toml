@@ -4,10 +4,10 @@ requires = ["setuptools>=68.1.2",
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-packages = [ "pyheatdemand" ]
+packages = [ "cv" ]
 
 [project]
-name = "Curriculum Vitae Alexander Jüstel"
+name = "CV"
 
 maintainers = [
     {name = "Alexander Jüstel", email = "alexander.juestel@gmail.com"},
