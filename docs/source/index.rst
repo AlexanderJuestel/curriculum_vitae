@@ -10,6 +10,8 @@ Welcome to the Curriculum Vitae of Alexander Jüstel
    :maxdepth: 2
    :caption: Contents:
 
+   academic_career
+
 
 
 Indices and tables
