@@ -3,6 +3,12 @@
 Research
 =========
 
+* 2023
+
+    * Peer-reviewed articles
+
+        * **Jüstel, A.**, de la Varga, M., Chudalla, N., Wagner, J.D., Back, S., Wellmann, F. (2023): From Maps to Models - Tutorials for structural geological modeling using GemPy and GemGIS, Journal of Open Source Education, 6 (85), 185, http://dx.doi.org/10.21105/jose.00185.
+
 
 
 Conferences
