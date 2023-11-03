@@ -11,8 +11,11 @@ Welcome to the Curriculum Vitae of Alexander Jüstel
    :caption: Contents:
 
    research
+   open_source_contributions
+   professional_career
    academic_career
    fieldwork
+
 
 
 
