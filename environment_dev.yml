@@ -5,4 +5,4 @@ dependencies:
   - pip
   - pip:
     - sphinx_book_theme==0.3.3
-    - spinx_toolbox
+    - sphinx_toolbox
