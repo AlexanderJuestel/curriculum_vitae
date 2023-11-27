@@ -41,9 +41,24 @@ Courses and Summer Schools
 
 * **05/2023: EASYGO 3rd Training Week in Volterra, Italy**
 
+.. image:: images/img3.jpg
+  :width: 500
+  :align: center
+
+Source: https://www.gim.rwth-aachen.de/images/large/easygo_tw_2023_group_photo_all.jpg
+
+|
+
 * **08/2022 - 09/2022:** `AG-836 Rift Basin Reservoirs: From Outcrop to Model <https://www.unis.no/courses/ag-336-rift-basin-reservoirs-from-outcrop-to-model/>`_ **in Longyearbyen, Svalbard, Norway**
 
     Course Instructor: `Per Terje Osmundsen <https://www.unis.no/staff/per-terje-osmundsen/>`_
+
+|pic1| |pic2|
+
+.. |pic1| image:: images/img4.jpg
+  :width: 300
+.. |pic2| image:: images/img5.jpg
+  :width: 300
 
 * **04/2022: EASYGO 2nd Training Week in Aachen, Germany**
 
@@ -53,6 +68,6 @@ Courses and Summer Schools
 
     Course Instructor: `Tor Arne Johansen <https://www.unis.no/staff/tor-arne-johansen/>`_
 
-* **08/2017 - 09/2017: **`AT-333 Arctic Petroleum Sciences: Challenges for Society, Technology and Environment <https://www.unis.no/courses/at-333-arctic-petroleum-challenges-for-society-technology-and-environment/>`_ ** in Longyearbyen, Svalbard, Norway**
+* **08/2017 - 09/2017:** `AT-333 Arctic Petroleum Sciences: Challenges for Society, Technology and Environment <https://www.unis.no/courses/at-333-arctic-petroleum-challenges-for-society-technology-and-environment/>`_ **in Longyearbyen, Svalbard, Norway**
 
     Course Instructor: `Helena Reinardy <https://www.unis.no/staff/helena-reinardy/>`_
