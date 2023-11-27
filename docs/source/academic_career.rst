@@ -60,14 +60,51 @@ Source: https://www.gim.rwth-aachen.de/images/large/easygo_tw_2023_group_photo_a
 .. |pic2| image:: images/img5.jpg
   :width: 300
 
+|
+
+
+
 * **04/2022: EASYGO 2nd Training Week in Aachen, Germany**
 
+|pic3| |pic4|
+
+.. |pic3| image:: images/img6.jpg
+  :width: 300
+.. |pic4| image:: images/img7.jpg
+  :width: 300
+
+|
+
 * **07/2018 - 08/2018: Summer School Modern Technology for Well Construction at** `Gubkin Russian State University of Oil and Gas <https://en.gubkin.ru/>`_, **Moscow, Russia**
+
+
+|pic5| |pic6|
+
+.. |pic5| image:: images/img8.jpg
+  :width: 300
+.. |pic6| image:: images/img9.jpg
+  :width: 300
 
 * **02/2018 - 03/2018:** `AG-335 Arctic Seismic Exploration <https://www.unis.no/courses/ag-335-arctic-seismic-exploration/>`_ **in Longyearbyen, Svalbard, Norway**
 
     Course Instructor: `Tor Arne Johansen <https://www.unis.no/staff/tor-arne-johansen/>`_
 
+|pic7| |pic8|
+
+.. |pic7| image:: images/img10.jpg
+  :width: 300
+.. |pic8| image:: images/img11.jpg
+  :width: 300
+
+|
+
 * **08/2017 - 09/2017:** `AT-333 Arctic Petroleum Sciences: Challenges for Society, Technology and Environment <https://www.unis.no/courses/at-333-arctic-petroleum-challenges-for-society-technology-and-environment/>`_ **in Longyearbyen, Svalbard, Norway**
 
     Course Instructor: `Helena Reinardy <https://www.unis.no/staff/helena-reinardy/>`_
+
+|pic9| |pic10|
+
+.. |pic9| image:: images/img11.jpg
+  :width: 300
+.. |pic10| image:: images/img12.jpg
+  :width: 300

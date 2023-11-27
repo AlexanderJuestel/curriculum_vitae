@@ -3,7 +3,11 @@
 Fieldwork
 =========
 
-* **10/2023: Well Site Geologist for the RWE EB1 borehole at the Weisweiler drillsite**
+* **02/2024 - 03/2024: Well Site Geologist for the RWE EB2 borehole (500 m) at the Weisweiler drillsite**
+
+    Tasks:
+
+* **10/2023: Well Site Geologist for the RWE EB1 borehole (100 m) at the Weisweiler drillsite**
 
     Tasks: Analysis and interpretation of cuttings from the Quaternary and Tertiary of the Weisweiler Horst of the Lower Rhine Embayment and Upper Carboniferous of the Aachen Fold-and-Thrust Belt (Inde Syncline) in cooperation with the Geological Survey of NRW, installation of a fibre optic cable for a seismic observatory
 
