@@ -3,11 +3,13 @@
 Academic Career
 ===============
 
-* **12/2021 - : PhD Candidate at the** `Geological Institute <https://www.geol.rwth-aachen.de/>`_ **of the** `Faculty of Georesources and Materials Engineering <https://www.fb5.rwth-aachen.de/>`_ **at** `RWTH Aachen University <https://www.rwth-aachen.de/>`_, **Aachen, Germany**
+* **06/2024 - present: Post-Doc at the** `Fraunhofer IEG, Fraunhofer Research Institution for Energy Infrastructures and Geotechnologies IEG<https://www.ieg.fraunhofer.de/>`_, **Aachen, Germany**
 
-    Supervisor: `Prof. Peter Kukla <https://www.rwth-aachen.de/go/id/bdfr/?gguid=0x39DAE8D9CE85D51196710000F4B4937D>`_
+* **12/2021 - 06/2024: PhD Candidate at the** `Geological Institute <https://www.geol.rwth-aachen.de/>`_ **of the** `Faculty of Georesources and Materials Engineering <https://www.fb5.rwth-aachen.de/>`_ **at** `RWTH Aachen University <https://www.rwth-aachen.de/>`_, **Aachen, Germany**
 
-    Topic: "Exploration and Characterization of potential Geothermal Reservoirs in North Rhine-Westphalia"
+    Supervisor: `Prof. Peter Kukla <https://www.rwth-aachen.de/go/id/bdfr/?gguid=0x39DAE8D9CE85D51196710000F4B4937D>`_, `Prof. Florian Wellmann <https://www.cg3.rwth-aachen.de/cms/cg3/der-lehrstuhl/team/~qpan/mitarbeiter-campus-/?gguid=PER-WF7GWHH&allou=1>`_, `Prof. Jonas Kley <https://www.uni-goettingen.de/en/410082.html>`_
+
+    Topic: "Exploration and Characterization of Geothermal Reservoirs in North Rhine-Westphalia (NRW), Germany"
 
 * **04/2018 - 08/2020: Graduate Student in** `Applied Geosciences (Energy and Mineral Resources) <https://www.rwth-aachen.de/cms/root/studium/Vor-dem-Studium/Studiengaenge/Liste-Aktuelle-Studiengaenge/Studiengangbeschreibung/~bnlc/Angewandte-Geowissenschaften-M-Sc-/?lidx=1>`_ **at** `RWTH Aachen University <https://www.rwth-aachen.de/>`_, **Aachen, Germany**
 
