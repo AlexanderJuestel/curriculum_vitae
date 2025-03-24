@@ -4,5 +4,6 @@ channels:
 dependencies:
   - pip
   - pip:
+    - sphinx>=5.0
     - sphinx_book_theme==0.3.3
     - sphinx_toolbox
