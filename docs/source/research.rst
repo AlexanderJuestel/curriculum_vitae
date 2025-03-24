@@ -7,6 +7,17 @@ This page outlines the research achievements in form peer-reviewed journal artic
 
 .. collapse:: Peer-reviewed articles
 
+    * **2025:**
+        * **Jüstel, A.**, Ritzmann, O., Chudalla, N., Sachse, F., Wellmann, F. (2025). 3D structural and probabilistic modelling of geothermal reservoir horizons in the Northern Eifel and its foreland. Zeitschrift der Deutschen Gesellschaft für Geowissenschaften, https://doi.org/10.1127/zdgg/2025/0436.
+        * **Jüstel, A.**, Ackermann, N., Kettermann, M., Ritzmann, O., Lehmann, C., Bussmann, G., Wellmann, F., Back, S., Kukla, P.A. (2025). New evidence from seismic data on the effect of Late Cretaceous deformation on geothermal systems in the Münsterland Cretaceous Basin, NW Germany, Zeitschrift der Deutschen Gesellschaft für Geowissenschaften, http://dx.doi.org/10.1127/zdgg/2025/0446.
+        * Finger, C., Keil, S., Gotowik, A., **Jüstel, A.**, Brotzer, A. (2025). Mapping sediment depths using seismic arrays, rotational measurements, and spectral ratios, Acta Geophysica, https://doi.org/10.1007/s11600-025-01552-2.
+
+    * **2024:**
+
+        * **Jüstel, A.**, Sachse, F. (2024). PyHeatDemand - Processing Tool for Heat Demand Data. The Journal of Open Source Software, 9(95), 6275, http://dx.doi.org/10.21105/joss.06275.
+        * Marquetto, L., **Jüstel, A.**, Troian, G.C., Reginato, P.A.R., Simoes, J.C. (2024). Developing a 3D hydrostratigraphical model of the emerged part of the Pelotas Basin along the northern coast of Rio Grande do Sul state, Brazil. Environmental Earth Sciences, 83, 329, https://doi.org/10.1007/s12665-024-11609-y.
+        * **Jüstel, A.**, Humm, E., Herbst, E., Strozyk, F., Kukla, P.A., Bracke, R. (2024). Unveiling the Spatial Distribution of Heat Demand in North-West-Europe Compiled with National Heat Consumption Data. Energies, 17(2), 481, https://doi.org/10.3390/en17020481.
+
     * **2023:**
 
         * **Jüstel, A.**, de la Varga, M., Chudalla, N., Wagner, J.D., Back, S. & Wellmann, F. (2023): From Maps to Models - Tutorials for structural geological modeling using GemPy and GemGIS, Journal of Open Source Education, 6 (85), 185, http://dx.doi.org/10.21105/jose.00185.
@@ -22,7 +33,13 @@ This page outlines the research achievements in form peer-reviewed journal artic
 
     * **2024**
 
+        * **Jüstel, A.**, Kettermann, M., Ritzmann, O. (2024). New evidence from seismic data on the effect of Late Cretaceous deformation on geothermal systems in the Münsterland Cretaceous Basin, NW Germany, European Geothermal Workshop.
+        * Kettermann, M., Ritzmann, O., Grummel, L., **Jüstel, A.**, Wellmann, F. (2024). Ein Kluft-basiertes Konzept für mitteltiefe Geothermie in der Kreide des Norddeutschen Beckens in Weyhe, Niedersachsen, Der Geothermiekongress.
+        * **Jüstel, A.**, Sachse, F., Reinsch, T., Becker, S., Mamonov, E., Salamon, M., Oswald, T. (2024).  Die Observations- und Erdwärmesondenbohrungen EB1 und EB2 auf dem Weisweiler Horst der Niederrheinischen Bucht am Standort des Kraftwerkes Weisweiler, Der Geothermiekongress.
+        * Kettermann, M., Ritzmann, O., Niederau, J., **Jüstel, A.**, Wellmann, F. (2024). Risiko-diskontierte Wärmegestehungskosten (LCOH) für Tiefengeothermie als Werkzeug zur quantitativen Analyse an Beispielen im Niedersächsischen Becken, Norddeutsche Geothermietagung.
+        * **Jüstel, A.**, Reinsch, T., Strozyk, F., Becker, S., Salamon, M., Mamonov, E., Oswald, T. (2024). The Seismic Observation and Deep Borehole Heat Exchanger drillings RWE EB1 and EB2, European Geothermal PhD Days.
         * **Jüstel, A.**, Jones, A., Grummel, L., Strozyk, F., Delzig, L., Richter, E., Gnodtke, D., Reinsch, T., Becker, S., Salamon, M. & Oswald, T. (2024): Die Observations- und Erdwärmesondenbohrungen RWE EB1 und EB2 auf dem Weisweiler Horst der Niederrheinischen Bucht, 29. Tagung der Fachsektion Hydrogeologie e. V. in der DGGV e. V..
+        * Wellmann, F., von Harten, J., Niederau, J., **Jüstel, A.**, Koltzer, N. (2024). The Role of Probabilistic Geomodelling in Geothermal Resource Estimation, 49th Workshop on Geothermal Reservoir Engineering.
 
     * **2023:**
 
@@ -71,9 +88,27 @@ Conferences
 
 The following scientific conferences were attended in presence or virtually.
 
+.. collapse:: 2025
+
+.. collapse:: 2024
+
+    * 11/2024: `European Geothermal Workshop <https://www.uis.no/en/research/events/technology-and-natural-sciences/european-geothermal-workshop-2024/>`_ in Stavanger, Norway
+
+        Contribution: Presentation
+
+    * 10/2024: `The German Geothermal Congress <https://www.der-geothermiekongress.de/kongress/der-geothermiekongress>`_, Potsdam, Germany
+
+        Contribution: Presentation
+
+    * 04/2024: `European Geothermal PhD Days <https://www.egpd2024.com/>`_, in Utrecht, The Netherlands
+
+        Contribution: Poster presentation
+
 .. collapse:: 2023
 
     * 11/2023: `European Geothermal Workshop <https://egw2023.sites.uu.nl/>`_ in Utrecht, The Netherlands
+
+        Contribution: Poster presentation
 
     * 10/2023: `The German Geothermal Congress <https://www.der-geothermiekongress.de/>`_ in Essen, Germany
 

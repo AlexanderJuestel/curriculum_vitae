@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Curriculum Vitae Alexander Jüstel'
-copyright = '2023, Alexander Jüstel'
+project = 'Alexander Jüstel Curriculum Vitae'
+copyright = '2025, Alexander Jüstel'
 author = 'Alexander Jüstel'
 
 
