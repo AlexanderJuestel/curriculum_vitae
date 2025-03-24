@@ -3,7 +3,7 @@
 Academic Career
 ===============
 
-* **06/2024 - present: Post-Doc at the** `Fraunhofer IEG, Fraunhofer Research Institution for Energy Infrastructures and Geotechnologies IEG<https://www.ieg.fraunhofer.de/>`_, **Aachen, Germany**
+* **06/2024 - present: Post-Doc at the** `Fraunhofer IEG, Fraunhofer Research Institution for Energy Infrastructures and Geotechnologies IEG <https://www.ieg.fraunhofer.de/>`_, **Aachen, Germany**
 
 * **12/2021 - 06/2024: PhD Candidate at the** `Geological Institute <https://www.geol.rwth-aachen.de/>`_ **of the** `Faculty of Georesources and Materials Engineering <https://www.fb5.rwth-aachen.de/>`_ **at** `RWTH Aachen University <https://www.rwth-aachen.de/>`_, **Aachen, Germany**
 
@@ -106,7 +106,7 @@ Source: https://www.gim.rwth-aachen.de/images/large/easygo_tw_2023_group_photo_a
 
 |pic9| |pic10|
 
-.. |pic9| image:: images/img11.jpg
+.. |pic9| image:: images/img12.jpg
   :width: 300
-.. |pic10| image:: images/img12.jpg
+.. |pic10| image:: images/img13.jpg
   :width: 300

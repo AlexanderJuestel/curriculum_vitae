@@ -10,7 +10,8 @@ Professional Career
     * Tasks:
 
         * Working on the `Geo³ Project <https://www.ieg.fraunhofer.de/de/projekte-veroeffentlichungen/referenzprojekte/geo3.html>`_ organizing the geoscientific working program for the Weisweiler RD1 well and a seismic exploration campaign.
-        * Working on feasibility studies for medium deep and deep geothermal projects in North Rhine-Westphalia with particular focus on the Aachen-Weisweiler area for the scientific exploration license for geothermal energy of Fraunhofer IEG.
+        * Working on feasibility studies for medium deep and deep geothermal projects in North Rhine-Westphalia and Northern Germany
         * Collection, processing, interpretation and integration of spatial data (GIS data), seismic data, well log data and petrophysical data
         * Development of open-source Python code/packages for automating internal workflows
         * Publication of research results in peer-reviewed open-access journals
+
